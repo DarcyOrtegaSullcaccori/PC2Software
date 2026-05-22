@@ -6,7 +6,6 @@ venv/
 .env
 *.env
 .DS_Store
-.claude/
 *.log
 dist/
 build/
